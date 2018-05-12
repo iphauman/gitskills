@@ -1,3 +1,2 @@
 # gitskills
-This is branch dev.
-This is branch dev2.
+This is master content.
